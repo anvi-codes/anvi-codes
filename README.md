@@ -38,4 +38,4 @@ Aspiring Frontend Developer
 ---
 
 ## 📬 Contact
-- Email: anvi022004@outlook.com
+- Email : anvi022004@outlook.com
