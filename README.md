@@ -36,8 +36,6 @@ Aspiring Frontend Developer
 ![Anvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvi-codes&show_icons=true)
 
 ---
-## 📬 Contact
-- Email: anvi022004@outlook.com
 
 ## 📬 Contact
 - Email: anvi022004@outlook.com
