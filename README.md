@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Anvi 👋
 
-<!--
-**anvi-codes/anvi-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building a Spotify Clone  
+- Strengthening JavaScript fundamentals  
+- Learning how to create responsive UI  
+
+---
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Basics)  
+
+---
+
+## 📌 Projects
+### 🎵 Spotify Clone (In Progress)
+- Focus: UI design, layout, responsiveness  
+- Goal: Make it as close as possible to real app  
+
+---
+
+## 🎯 Goals
+- Improve JavaScript logic  
+- Build 3–4 solid frontend projects  
+- Start React after strong basics  
+
+---
+
+## 📊 GitHub Stats
+![Anvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvi-codes&show_icons=true)
+
+---
+## 📬 Contact
+- Email: anvi022004@outlook.com
+
+## 📬 Contact
+- Email: anvi022004@outlook.com
