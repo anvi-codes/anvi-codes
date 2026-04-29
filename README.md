@@ -19,15 +19,15 @@ Aspiring Frontend Developer
 ---
 
 ## 📌 Projects
-### 🎵 Spotify Clone (In Progress)
-- Focus: UI Design, Layout, Responsiveness  
-- Goal: Make it as close as possible to real app  
+### Spotify Clone (In Progress)
+- Focus : UI Design, Layout, Responsiveness  
+- Goal : Make it as close as possible to real app  
 
 ---
 
 ## 🎯 Goals
 - Improve JavaScript Logic  
-- Build 3–4 Solid Frontend Projects  
+- Build 3 – 4 Solid Frontend Projects  
 - Start React after Strong Basics  
 
 ---
