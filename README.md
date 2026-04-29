@@ -6,7 +6,7 @@ Aspiring Frontend Developer
 
 ## 🚀 Current Focus
 - Building a Spotify Clone  
-- Exploring React.Js
+- Exploring ReactJS
 - Learning how to create Responsive UI  
 
 ---
@@ -28,7 +28,7 @@ Aspiring Frontend Developer
 ## 🎯 Goals
 - Mastering Programming In JavaScript
 - Build 3 – 4 Solid Frontend Projects  
-- Learning React.Js to build Dynamic Web Apps
+- Learning ReactJS to build Dynamic Web Apps
 
 ---
 
