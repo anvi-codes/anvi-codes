@@ -14,7 +14,7 @@ Aspiring Frontend Developer
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript (Basics)  
+- JavaScript (ES6+)
 
 ---
 
